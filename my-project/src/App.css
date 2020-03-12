@@ -1,0 +1,15 @@
+body{
+  background-color: rgb(220, 226, 226);
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.pages-content{
+  display: flex;
+  flex-shrink: 0;
+ justify-content: space-between;
+}
+
+.navbar-page{
+  width: 200px;
+  padding-right: 100px;
+}

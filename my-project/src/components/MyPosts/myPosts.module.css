@@ -1,0 +1,76 @@
+.postsPage{
+    height: 100%;
+    width: 100%;
+}
+
+.content{
+    background-color:wheat;
+    width: 900px;
+   max-height: max-content;
+    margin-top: 30px;
+    margin-right: 100px;
+    border-left: 3px solid rgb(53, 52, 52);
+    border-right: 3px solid rgb(53, 52, 52);
+    border-top: 5px solid rgb(53, 52, 52);
+    border-bottom: 1px rgb(53, 52, 52);
+    border-radius: 5px;  
+    display: flex;
+
+}
+
+
+
+.miniProfile{
+    width: 230px;
+    height: 100%;
+}
+
+.profile{
+    background-color: rgb(69, 149, 214);
+    width: 200px;
+    min-height: 600px;
+    max-height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  
+}
+
+.photo{
+    width: 180px;
+    height: 180px;
+    border-radius: 100px;
+    margin-bottom: 40px;
+}
+
+
+
+.myPostsPage{
+    padding-left: 130px;
+     
+ }
+
+.uPhoto{
+    border-radius: 100px;
+}
+
+.myPosts{
+    padding-bottom: 15px;
+    font-size: 18px;
+    color: rgb(48, 47, 47);
+    max-width: 300px;
+}
+
+.fullName{
+    font-size: 29px;
+    border-bottom: rgb(32, 32, 32) solid 5px;
+    color: rgb(61, 61, 61);
+    
+}
+
+.status{
+    font-size: 20px;
+    padding-top: 40px;
+
+}

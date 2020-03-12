@@ -1,0 +1,20 @@
+
+.login{
+    height: 100%;
+    width: 100%;
+}
+
+.content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    max-height: max-content;
+    width: 350px;
+    background-color: rgb(69, 149, 214);
+    margin-left: 301px;
+}
+
+.fild{
+    padding-top: 20px;
+}

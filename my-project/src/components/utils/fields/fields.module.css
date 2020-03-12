@@ -1,0 +1,27 @@
+.textareaForm textarea{
+    resize: none;
+    height: 50px;
+    width: 200px;
+}
+
+.erroreMessag textarea{
+    border: 3px solid red;
+}
+
+.inputForm input{
+    height: 25px;
+    width: 200px;
+    border: 2px solid black;
+}
+
+.erroreMessag input{
+    border: 3px solid red;
+}
+
+
+.errorInfo{
+    font-size: 14px;
+    font-weight: bold;
+    color: brown;
+
+}
